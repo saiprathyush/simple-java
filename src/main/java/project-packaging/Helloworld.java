@@ -1,5 +1,5 @@
 public class HelloWorld {
-        public void sayHello() {
-                System.out.print("Hello World");
-        }
+        public void sayHello() {
+                system.out.print("Hello World");
+        }
 }
